@@ -2,9 +2,9 @@
 
 ## Inregrantes:
 - Zaira Machuca
-- Casandra cansinos
+- Casandra Canzinos
 - Agustin Lerman
-- Agustin Caballero
+- Agustin Ortiz
 - Nehuen Quintanilla
 
 
@@ -14,9 +14,6 @@
 - Base de Datos
 - Programación Orientada a Objetos
 
-## Objetivos
-
-Desarrollar una aplicación que permita administrar la información de la inmobiliaria de forma organizada, facilitando la gestión de propiedades, clientes, agentes y operaciones.
 
 ## Metodología de trabajo
 
