@@ -1,14 +1,14 @@
 # Proyecto Interareal - Sistema de Gestión para RE/MAX
 
 ## Inregrantes:
-Zaira Machuca
-Casandra cansinos
-Agustin Lerman
-Agustin Caballero
-Nehuen Quintanilla
+- Zaira Machuca
+- Casandra cansinos
+- Agustin Lerman
+- Agustin Caballero
+- Nehuen Quintanilla
 
 
-Este repositorio contiene el desarrollo de un sistema de gestión para una inmobiliaria (RE/MAX), realizado como proyecto integrador de las materias:
+## Materias:
 
 - Análisis de Sistemas
 - Base de Datos
