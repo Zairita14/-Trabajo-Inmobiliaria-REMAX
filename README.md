@@ -29,5 +29,3 @@ El proyecto se desarrolla siguiendo las siguientes etapas:
 5. Diseño de Base de Datos.
 6. Implementación del sistema en Java.
 7. Pruebas y documentación.
-
-Cada materia aporta los contenidos correspondientes para lograr una solución integrada.
