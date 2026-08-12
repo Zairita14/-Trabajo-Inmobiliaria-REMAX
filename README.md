@@ -13,6 +13,8 @@
 - Análisis de Sistemas
 - Base de Datos
 - Programación Orientada a Objetos
+- Poryecto Informatico
+- Redes
 
 
 ## Metodología de trabajo
