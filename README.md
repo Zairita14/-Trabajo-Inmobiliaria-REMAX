@@ -7,6 +7,7 @@
 - Agustin Ortiz
 - Nehuen Quintanilla
 
+## Carpeta de campo general: https://docs.google.com/document/d/1-oRdKcsKo1UtOTNji23Ts71hAEKJdJDLbBmw9ZSk84A/edit?tab=t.0
 
 ## Materias:
 
