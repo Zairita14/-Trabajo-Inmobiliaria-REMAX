@@ -5,7 +5,7 @@
 - Casandra Canzinos - https://docs.google.com/document/d/1k1aIZiRtxNywkeBt4s_stRRlHssl80YhxH_LY6s9fss/edit?usp=sharing
 - Agustin Lerman
 - Agustin Ortiz - https://docs.google.com/document/d/1t9r0slo6vLDUAz-9oyX0v3N5gOJidc2lVtWode1t-88/edit?tab=t.0
-- Nehuen Quintanilla
+- Nehuen Quintanilla - https://docs.google.com/document/d/1mPhvUsnx6I5JPTYKCL-iTx-A__PcVHhkYP6DZwzvqNQ/edit?tab=t.0
 
 ## Carpeta de campo general: https://docs.google.com/document/d/1-oRdKcsKo1UtOTNji23Ts71hAEKJdJDLbBmw9ZSk84A/edit?tab=t.0
 
