@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RE/MAX Argentina</title>
+
+
+<style>
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;/*box-sizing = define el ancho y alto del elemento.border-box = los valores dados(ancho y alto) a la caja(box) se le incluirán el borde y relleno,esto para evitar que el elemento se agrande mas de lo debido.*/
+}
+
+
+body{
+    min-height:100vh;/*min-height=establece la altura de un elemento.*/
+    font-family:Arial, Helvetica, sans-serif;/*font-family=Tipografia del texto.*/
+
+
+    display:flex;/*display: flex;=el display ayuda a definir el comportamiento/relacion delelemento tanto en la patalla como con otros elementos , flex:alinea y distribuye elementos internos con facilidad.*/
+    justify-content:center;/*justify-content: center; = justify-content alinea y distribuye el espacio libre entre los elementos , center centrar elemento.*/
+    align-items:center;/*align-items:center; = align-items alinea elementos de forma vertical.*/
+    flex-direction:column;/*flex-direction:column; = flex-direction establece la direccion y sentido de un elemento. el column acomoda de forma vertial los objetos(de arriba a abajo).*/
+    /*NOTA:Los elementos anteriormente nombrados son normalmente usado cuando activa el display:Flex*/
+
+
+    background:
+    linear-gradient(
+        rgba(0,0,0,.45),
+        rgba(0,0,0,.75)
+    ),/*linear-gradient() =crea una transición suave entre dos o más colores que se dibuja de forma lineal.*/
+    url("fondo2.jpg");/*url(direccion de imagen a establecer como fondo)*/
+
+
+    background-size:cover;/*background-size = define tamaño de la imagen establecida como fondo. cover = establece estirar la imagen para que ocupe todo el espacio de la pantalla*/
+    background-position:center;/*background-position = define la posicion de la imagen de fondo.*/
+    background-repeat:no-repeat;/*background-repeat = nos sirve para evitar que la imagen de fondo salga duplicada. no-repeat = muetra la imagen una vez(no duplicado)*/
+    overflow:hidden;/*overflow:hidden; = overflow = controla el contenido del elemento si pasa los limites(tamaño establecido) de la caja(osea nuestra pantalla). hidden = recorta/oculta lo quesalga del limite.*/
+}
+
+
+.logo{
+    width:300px;
+    max-width:80%;/*max-width =establece el ancho maximo que puede llegar a tener un elemento.*/
+    animation:flotar 4s ease-in-out infinite;/* animation = le da movimiento a un elemento combinando el nombre del efecto, el tiempo, el tipo de ritmo y las repeticiones en una sola línea de código. ease-in-out = es el ritmo del movimiento.infinite = indica cuantas veces se repetira */
+    /*seria este orden, animation: -nombre de la instrucccion- -duracion- -ritmo o velocidad- -cuantas veces se repetira-;*/
+}
+
+
+@keyframes flotar{
+
+
+    0%,100%{
+        transform:translateY(0);
+    }
+
+
+    50%{
+        transform:translateY(-15px);
+    }
+
+
+}
+
+
+.titulo{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+    letter-spacing:3px;
+    margin-top:20px;
+    text-shadow:0 0 20px rgba(0,0,0,.6);
+}
+
+
+.descripcion{
+    color:#d6d6d6;
+    margin-top:15px;
+    text-align:center;
+    font-size:18px;
+    max-width:700px;
+    padding:0 20px ;
+}
+
+
+.botones{
+    margin-top:10px;
+    display:flex;
+    gap:20px;
+}
+
+
+.btn{
+    padding:15px 35px;
+    border:none;
+    border-radius:12px;
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.3s;
+}
+
+
+.btn-rojo{
+    background:#e53935;
+}
+
+
+.btn-rojo:hover{
+    background:#ff4b47;
+    transform:translateY(-5px);
+}
+
+
+.btn-azul{
+    background:#1e88e5;
+}
+
+
+.btn-azul:hover{
+    background:#42a5f5;
+    transform:translateY(-5px);
+}
+
+
+footer{
+    padding: 2px;
+    position:absolute;
+    bottom:20px;
+    color:white;
+    font-size:14px;
+}
+
+
+@media(max-width:768px){
+
+
+    .logo{
+        width:220px;
+    }
+
+
+    .titulo{
+        font-size:40px;
+    }
+
+
+    .descripcion{
+        font-size:15px;
+    }
+
+
+    .botones{
+        justify-content: center;
+        align-items: center;
+        padding: 10px 35px 10px 35px;
+    }
+
+
+}
+
+
+</style>
+
+
+</head>
+<body>
+
+
+<img src="logotipoRemax.webp" alt="Logo REMAX" class="logo">
+
+
+<h1 class="titulo">RE/MAX</h1>
+
+
+<p class="descripcion">
+Encuentra la propiedad de tus sueños o unete a la red inmobiliaria mas grande del mundo.
+</p>
+
+
+<div class="botones">
+    <button class="btn btn-rojo">Registrarse</button>
+    <button class="btn btn-azul">Iniciar Sesión</button>
+</div>
+
+
+<footer>
+    © 2026 RE/MAX Argentina(grupo3)
+</footer>
+
+
+</body>
+</html>
+
+
+<html>
+<head>
+
+
+</head>
+
+
+
+
+<body>
+
+
+
+
+
+
+    <label for="barrabuscar"> Ingrese la ubicacion: </label>
+
+
+    <input
+  type="text"
+  id="barrabuscar"
+  name="name"
+  required
+  minlength="4"
+  maxlength="8"
+  size="10" />
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+
+
+
+
+</html>
+
