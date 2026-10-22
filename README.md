@@ -3,7 +3,7 @@
 ## Inregrantes:
 - Zaira Machuca  - https://docs.google.com/document/d/1rqqUhrbFmCFYIYZNrMhBw2r41BIma7uIfiZTmR321IA/edit?tab=t.0
 - Casandra Canzinos - https://docs.google.com/document/d/1k1aIZiRtxNywkeBt4s_stRRlHssl80YhxH_LY6s9fss/edit?usp=sharing
-- Agustin Lerman
+- Agustin Lerman- https://docs.google.com/document/d/1_2dluCK0zhectcjKMHx-eFMj6_6VrlL6RN3NvC7OIv8/edit?usp=sharing
 - Agustin Ortiz - https://docs.google.com/document/d/1t9r0slo6vLDUAz-9oyX0v3N5gOJidc2lVtWode1t-88/edit?tab=t.0
 - Nehuen Quintanilla - https://docs.google.com/document/d/1mPhvUsnx6I5JPTYKCL-iTx-A__PcVHhkYP6DZwzvqNQ/edit?tab=t.0
 
